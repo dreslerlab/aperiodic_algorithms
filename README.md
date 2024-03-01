@@ -1,6 +1,11 @@
 # aperiodic_algorithms
 Aspiration: exhaustive overview of algorithmic approaches that decode aperiodic activity from electrophysiology.
 
+## CGSA
+
+![image](https://github.com/dreslerlab/aperiodic_algorithms/assets/15858293/6d7afa80-8e8a-49c8-81e3-243121f93ba1)
+[Yamamoto, Y., & Hughson, R. L. (1993). Extracting fractal components from time series. Physica D: Nonlinear Phenomena, 68(2), 250-264.](https://doi.org/10.1016/0167-2789(93)90083-D)
+
 ## BOSC
 
 ![image](https://github.com/dreslerlab/aperiodic_algorithms/assets/15858293/c88ddf24-dbb4-46be-befc-9ca757d4662a)

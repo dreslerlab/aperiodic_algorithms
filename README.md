@@ -31,3 +31,7 @@ Aspiration: exhaustive overview of algorithmic approaches that decode aperiodic 
 *Fitting Oscillations & One Over F*
 ![image](https://github.com/dreslerlab/aperiodic_algorithms/assets/15858293/f24869f7-1d2b-479c-a818-e2c70026c6a3)
 [Donoghue, T., Haller, M., Peterson, E. J., Varma, P., Sebastian, P., Gao, R., ... & Voytek, B. (2020). Parameterizing neural power spectra into periodic and aperiodic components. Nature neuroscience, 23(12), 1655-1665.](https://doi.org/10.1038/s41593-020-00744-x)
+
+## ξ-π
+![image](https://github.com/dreslerlab/aperiodic_algorithms/assets/15858293/bf24a8eb-9de1-4b98-927f-f3a200cd1b86)
+[Hu, S., Zhang, Z., Zhang, X., Wu, X., & Valdes-Sosa, P. A. (2024). $\xi $-$\pi $: a nonparametric model for neural power spectra decomposition. IEEE Journal of Biomedical and Health Informatics.](https://doi.org/10.1109/JBHI.2024.3364499)

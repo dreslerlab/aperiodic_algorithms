@@ -1,6 +1,12 @@
 # aperiodic_algorithms
 Aspiration: exhaustive overview of algorithmic approaches that decode aperiodic activity from electrophysiology.
 
+[CGSA (1993)](## CGSA)
+[BOSC (2012)](## BOSC)
+[IRASA (2016)](## IRASA)
+[eBOSC (2020)](## eBOSC)
+[FOOOF (2020)](## FOOOF)
+
 ## CGSA
 
 ![image](https://github.com/dreslerlab/aperiodic_algorithms/assets/15858293/6d7afa80-8e8a-49c8-81e3-243121f93ba1)

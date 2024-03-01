@@ -11,6 +11,10 @@ Aspiration: exhaustive overview of algorithmic approaches that decode aperiodic 
 ![image](https://github.com/dreslerlab/aperiodic_algorithms/assets/15858293/0231c150-05d0-4587-ab03-92d1d915a39f)
 [Wen, H., & Liu, Z. (2016). Separating fractal and oscillatory components in the power spectrum of neurophysiological signal. Brain topography, 29, 13-26.](https://doi.org/10.1007%2Fs10548-015-0448-0)
 
+# eBOSC
+![image](https://github.com/dreslerlab/aperiodic_algorithms/assets/15858293/f889129c-555f-454d-8ed7-006c10184b4e)
+[Kosciessa, J. Q., Grandy, T. H., Garrett, D. D., & Werkle-Bergner, M. (2020). Single-trial characterization of neural rhythms: Potential and challenges. NeuroImage, 206, 116331.](https://doi.org/10.1016/j.neuroimage.2019.116331)
+
 ## FOOOF
 
 ![image](https://github.com/dreslerlab/aperiodic_algorithms/assets/15858293/f24869f7-1d2b-479c-a818-e2c70026c6a3)

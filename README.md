@@ -1,6 +1,11 @@
 # aperiodic_algorithms
 Aspiration: exhaustive overview of algorithmic approaches that decode aperiodic activity from electrophysiology.
 
+## BOSC
+
+![image](https://github.com/dreslerlab/aperiodic_algorithms/assets/15858293/c88ddf24-dbb4-46be-befc-9ca757d4662a)
+[Hughes, A. M., Whitten, T. A., Caplan, J. B., & Dickson, C. T. (2012). BOSC: A better oscillation detection method, extracts both sustained and transient rhythms from rat hippocampal recordings. Hippocampus, 22(6), 1417-1428.](https://doi.org/10.1002/hipo.20979)
+
 ## IRASA
 
 ![image](https://github.com/dreslerlab/aperiodic_algorithms/assets/15858293/0231c150-05d0-4587-ab03-92d1d915a39f)

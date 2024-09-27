@@ -5,8 +5,12 @@ Aspiration: exhaustive overview of algorithmic approaches that decode aperiodic 
 - [BOSC (2012)](#BOSC)  
 - [IRASA (2016)](#IRASA)  
 - [eBOSC (2020)](#eBOSC)  
-- [FOOOF (2020)](#FOOOF)
+- [FOOOF (2020)](#FOOOF) _(renamed to specparam)_
 - [ξ-π (2024)](#ξ-π)
+
+Also note:
+- methods in the time domain may prove useful (such as measures of entropy or complexity) (for an overview, see [here](https://aperiodicmethods.github.io/notebooks/20-TimeDomainMethods.html))
+- [in-depth simulation-based comparison](https://aperiodicmethods.github.io/notebooks/30-SpectralMethods.html) between [FOOOF](#FOOOF) and [IRASA](#IRASA) shows that IRASA outperforms FOOOF only in case of no [knee](https://fooof-tools.github.io/fooof/auto_tutorials/plot_01-ModelDescription.html#fitting-knees) in the spectrum
 
 ## CGSA
 *Coarse Graining Spectral Analysis*
